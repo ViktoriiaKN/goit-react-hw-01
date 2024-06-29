@@ -1,4 +1,3 @@
-
 import styles from './TransactionHistory.module.css';
 
 const TransactionHistory = ({ items }) => {
@@ -22,6 +21,6 @@ const TransactionHistory = ({ items }) => {
       </tbody>
     </table>
   );
-}
+};
 
 export default TransactionHistory;
